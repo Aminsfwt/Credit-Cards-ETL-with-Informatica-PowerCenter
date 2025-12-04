@@ -1,0 +1,7 @@
+# Parameters file for Informatica Credit Cards Project 
+# Put this file on Location: D:\Informatica\INFO\server
+# Put this Path on the task CC.TASK --> Mapping --> Files, Directories and Commands --> Parameter Filename
+# Construction of Parameter file is [File where the workflow project in.Session name] 
+
+[project.CC_TASK]
+$$SPECIFIC_DATE=2022-06-13
